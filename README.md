@@ -2,7 +2,7 @@
 - 👀 I’m interested in website and mobile app development in Javascript, Python, Node.js, React, and React Native.
 - 🌱 I’m currently learning DevOps and dataflow & workflow automation using Make(formerly Integromat), Apache NiFI, Zapier, and etc
 - 💞️ I’m looking to collaborate on startup and extend company.
-- 📫 How to reach me: luis.pera0328@gmail.com
+- 📫 How to reach me: Upwork, Gmail, Slack, Skype
 
 <!---
 luispdev0328/luispdev0328 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
